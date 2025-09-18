@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "leo@example.com",
+      "password": "12345678",
+      "name": "Leo"
+    }
+  ],
+  "dashboard": {
+    "totalAssets": 0,
+    "totalLocations": 1,
+    "totalAccess": 0,
+    "totalUsers": 7,
+    "totalLockGroups": 0,
+    "totalUserGroups": 0,
+    "assetsInStock": [],
+    "highestLockOpenings": [],
+    "lockStatusCount": []
+  },
+  "locations": [
+    {
+      "id": "1",
+      "name": "R S Puram",
+      "city": "Coimbatore",
+      "locks": []
+    }
+   
+  ]
+}
